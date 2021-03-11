@@ -1,0 +1,132 @@
+MikMod 2.10 X-mas WATCOM Release
+================================
+
+Ho-ho-ho... Just a quick pre-release of mikmod 2.10 for all you Watcom fans
+(especially for those of you who might need it for The Party :)
+
+The most important changes are:
+
+- Batteries included.. ugh I mean binaries included
+
+- You can compile & use mikmod in both C or C++ mode
+
+- Global volume XM effects supported
+
+- The ASM mixing routines are back (twice as fast as the C versions)
+
+- Ensoniq Soundscape driver
+
+
+A few tips
+==========
+
+- Please don't forget about the /zu switch.. read WATIRQ.DOC
+
+- Use pmodew for your final versions instead of DOS4GW. (faster, better,
+  it RULES!)
+
+- Give me some credit if you use it in your demo
+
+- Interpolated mixing is not present in this version.. wait for the final
+  mikmod 2.10 release.
+
+
+Shareware or PD ?
+=================
+                  
+As of version 1.90 and higher (which some people received) MikMod is 
+SHAREWARE. Now don't format your harddisk.. This only means that you have to 
+give me a small teensy-weensy one-time $25 US registration fee if you want to 
+use MikMod COMMERCIALLY. Basically the rule is: IF YOU'RE ASKING MONEY FOR 
+THE PRODUCT YOU'RE USING MIKMOD WITH, YOU HAVE TO REGISTER. See REGISTER.FRM 
+for more details on how to register.
+
+- Registering MikMod is for binaries only. You're not allowed to distribute 
+the MikMod sources or parts of it in _any_ form. If you do want to distribute
+the sources on a commercial basis, you'll need special permission of the 
+author (Jean-Paul Mikkers).
+
+- Registering MikMod gives you the right to sell an unlimited number of 
+copies of the product you're using it for.. pretty flexible huh?
+
+- Registering MikMod 2.09B means that you're registering all versions of 
+mikmod between 2.00 and any updates until version 2.99. This allows for 
+bugfixes and updates without the need to register again.
+
+- A MikMod registration cannot be transferred from one person to another, or 
+from one person to a company, or from one company to another company.
+
+- Any contributors to MikMod (bug-fixes, new loaders, new drivers) will get 
+automatic registration for ALL MikMod versions. I'll decide if your 
+contribution is good enough for registration.
+
+- If you're a very poor shareware author and you want to use MikMod, send 
+some email with your story :). I'm always willing to negotiate a lower price, 
+or some form of alternative payment (like sample CD's, or software or Cindy 
+Crawford videos =).
+
+- It's not illegal to register MikMod even when you don't use it commercially 
+=P
+
+So you see, I'm not doing this to get rich.. but it would be nice if I could 
+buy a couple of CD's from the registration money, or at least get the money I 
+spent on buying my SB16.
+
+
+Example sources
+===============
+
+This version of MikMod includes three sample sources:
+
+
+        MIKWAV: Demonstrates the use of the wav-loading capabilities of 
+                mikmod to use for soundeffects.
+                
+        MIKMOD: The modplayer.
+        
+        MIKCVT: Utility to convert your modules to the UNIMOD(tm) format.
+                           
+
+
+How to contact me
+=================
+
+Please send your questions, registration forms, comments, bugreports,
+bugfixes, loaders, drivers, soundcards etc. to:
+
+
+        Email: 
+               mikmak@via.nl (preferred)
+        
+               mikmak@stack.urc.tue.nl
+        
+        
+        Snail-mail:
+               
+               Jean-Paul Mikkers
+               Godartstr. 16
+               5932AX Tegelen,
+               The Netherlands
+
+        Phone:  
+               +31 (0)77-3732736
+
+
+Legal Stuff
+===========
+
+This software is SHAREWARE.
+
+Disclaimer:
+
+The author (Jean-Paul Mikkers) specifically disclaims all warranties,
+expressed or implied, including but not limited to implied warranties of
+merchantability and fitness for a particular purpose with respect to defects
+in the software and documentation.
+
+In no event shall the author be liable for any loss of profit or damage,
+including but not limited to special, incidental, or consequential damages.
+
+All product names, trademarks and registered trademarks contained in this
+document are the property of their respective holders.
+
