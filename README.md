@@ -1,5 +1,5 @@
 # MIKMOD
-MikMod 2.10 with AWE32 driver
+MikMod 2.10 with AWE32 driver (https://github.com/a740g/MIKMOD/blob/main/source/drv_awe.c)
 
 This is only here for legacy and historical reasons. MikMod 2.10 source is just include here for this repository to be self-contained. For more information on the rest of MikMod 2.10 source code, read: https://github.com/a740g/MIKMOD/blob/main/mikmod.txt
 
