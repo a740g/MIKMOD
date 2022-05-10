@@ -1,6 +1,6 @@
 # MIKMOD
 
-MikMod 2.10 with Sound Blaster 32/AWE32/AWE64 driver (https://github.com/a740g/MIKMOD/blob/main/source/drv_awe.c)
+MikMod 2.10 with my Sound Blaster 32/AWE32/AWE64 driver (https://github.com/a740g/MIKMOD/blob/main/source/drv_awe.c)
 
 This is only here for legacy and historical reasons. MikMod 2.10 source is included here for completeness. For more information on the rest of MikMod 2.10 source code, read https://github.com/a740g/MIKMOD/blob/main/mikmod.txt
 
